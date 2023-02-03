@@ -26,7 +26,7 @@ Around The US é um album de fotos para você compartilhar seus melhores cliques
 
 **Link**
 
-- [Link para Pages GitHub](https://garrafatati.github.io/web_project_4_ptbr/index.html)
+- [Link para Pages GitHub](https://garrafatati.github.io/web_project_4_ptbr_js/index.html)
 
 ### Visão geral
 
