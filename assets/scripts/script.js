@@ -81,11 +81,11 @@ const places = document.querySelector(".places");
 
 const initialCards = [
   {
-    name: "Vale de Yosemite",
+    name: "Yosemite Valley",
     link: "https://code.s3.yandex.net/web-code/yosemite.jpg",
   },
   {
-    name: "Lago Louise",
+    name: "Lake Louise",
     link: "https://code.s3.yandex.net/web-code/lake-louise.jpg",
   },
   {
@@ -97,11 +97,11 @@ const initialCards = [
     link: "https://code.s3.yandex.net/web-code/latemar.jpg",
   },
   {
-    name: "Parque Nacional da Vanoise ",
+    name: "Vanoise National Park",
     link: "https://code.s3.yandex.net/web-code/vanoise.jpg",
   },
   {
-    name: "Lago di Braies",
+    name: "Lake Braies",
     link: "https://code.s3.yandex.net/web-code/lago.jpg",
   },
 ];
