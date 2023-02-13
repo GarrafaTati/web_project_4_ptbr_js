@@ -156,7 +156,7 @@ function addPlaceCard(nameValue, linkValue) {
     openImgPopup();
   });
 
-  places.append(placeElement);
+  places.prepend(placeElement);
 }
 
 //When click button create
