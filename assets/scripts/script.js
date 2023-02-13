@@ -1,7 +1,4 @@
-import {
-  resetInputValidationEdit,
-  resetInputValidationAdd,
-} from "./modules/validate.js";
+import { resetInputValidation, formEdit, formAdd } from "./modules/validate.js";
 
 // open and close popup Edit
 const edit = document.querySelector(".button_type_edit");
@@ -23,7 +20,7 @@ function addClassEditPopup() {
 
 function removeClassEditPopup() {
   editPopup.classList.remove("modal_state_opened");
-  resetInputValidationEdit();
+  resetInputValidation(formEdit);
 }
 
 edit.addEventListener("click", addClassEditPopup);
@@ -49,7 +46,7 @@ function addClassAddPopup() {
 
 function removeClassAddPopup() {
   addPopup.classList.remove("modal_state_opened");
-  resetInputValidationAdd();
+  resetInputValidation(formAdd);
 }
 
 addPlace.addEventListener("click", addClassAddPopup);
@@ -74,7 +71,7 @@ function handleProfileFormSubmit(evt) {
   aboutProfile.textContent = addedAbout;
 
   removeClassEditPopup();
-  resetInputValidationEdit();
+  resetInputValidation(formEdit);
 }
 
 formElement.addEventListener("submit", handleProfileFormSubmit);
@@ -173,7 +170,7 @@ formElementCreate.addEventListener("submit", function (evt) {
   linkImage.value = "";
 
   removeClassAddPopup();
-  resetInputValidationAdd();
+  resetInputValidation(formAdd);
 });
 
 function closePopupImgEsc(evt) {
