@@ -1,44 +1,33 @@
 # Projeto 4:  Around The US by Tati Garrafa
 
-**Descrição**
+**Description**
 
-Around The US é um album de fotos para você compartilhar seus melhores cliques pelos Estados Unidos. Você pode adicionar quantas fotos quiser no seu perfil.
+Around The US is a photo album for you to share your best shots across the United States. You can add as many photos as you like to your profile.
 
-**Nesta versão (1.1)**
+All this project was done with Javascript Vanilla.
 
-- Validação dos formulários
-- Fechar modal clicando fora do popup
-- Fechar modal clicando na tecla ESC
+This project was made as part of Practicum Brazil's Web Development Bootcamp
 
-**Versão 1.0**
+**In this version (1.1)**
 
-- adicionar e deletar imagens
-- alterar perfil
-- curtir e descurtir
-- abrir imagem num popup
+- Form Validation
+- Close modal by clicking outside the popup
+- Close modal by clicking ESC key
 
-**Technologias**
+**Version 1.0**
+
+- add and delete images
+- change profile
+- like and dislike
+- open image in popup
+
+**Tech**
 
 - HTML5
 - CSS3
-- Metodologia BEM para as classes
-- JS
+- BEM methodology for classes
+- JS (DOM)
 
 **Link**
 
-- [Link para Pages GitHub](https://garrafatati.github.io/web_project_4_ptbr_js/index.html)
-
-### Visão geral
-
-- Figma
-- Imagens
-
-**Figma**
-
-- [Link para o projeto no Figma](https://www.figma.com/file/XfB6BSINvliub43JgKza1e/WEB.-Sprint-4.-Around-The-U.S.-desktop-%2B-mobile-pt)
-
-**Imagens**
-
-A maneira como você fará isso no trabalho é exportando imagens diretamente do Figma — recomendamos fazer isso para praticar mais. Não se esqueça de otimizá-los [aqui](https://tinypng.com/), para que seu projeto carregue mais rápido.
-
-Divirta-se com JavaScript!
+- [Link to Pages GitHub](https://garrafatati.github.io/web_project_4_ptbr_js/index.html)
