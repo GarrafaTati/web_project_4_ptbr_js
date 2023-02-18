@@ -89,7 +89,7 @@ const initialCards = [
     link: "https://code.s3.yandex.net/web-code/lake-louise.jpg",
   },
   {
-    name: "Montanhas Carecas",
+    name: "Bald Mountains",
     link: "https://code.s3.yandex.net/web-code/bald-mountains.jpg",
   },
   {
