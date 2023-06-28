@@ -31,3 +31,7 @@ All this project was done with Javascript Vanilla.
 **Link**
 
 - [Link to Pages GitHub](https://garrafatati.github.io/web_project_4_ptbr_js/index.html)
+
+**Figma**
+
+- [Link to Figma](https://www.figma.com/file/XfB6BSINvliub43JgKza1e/WEB.-Sprint-4.-Around-The-U.S.-desktop-%2B-mobile-pt)
