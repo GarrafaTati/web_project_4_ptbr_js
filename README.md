@@ -1,4 +1,6 @@
-# Projeto 4:  Around The US by Tati Garrafa
+# Project 4:  Around The US by Tati Garrafa
+
+This project was made as part of Practicum Brazil's Web Development Bootcamp
 
 **Description**
 
@@ -6,9 +8,7 @@ Around The US is a photo album for you to share your best shots across the Unite
 
 All this project was done with Javascript Vanilla.
 
-This project was made as part of Practicum Brazil's Web Development Bootcamp
-
-**In this version (1.1)**
+**Version 1.1**
 
 - Form Validation
 - Close modal by clicking outside the popup
